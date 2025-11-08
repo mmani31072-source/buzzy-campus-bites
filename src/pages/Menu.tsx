@@ -61,6 +61,174 @@ const Menu = () => {
       price: 130,
       image: "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=300&h=200&fit=crop",
       description: "Creamy Italian pasta with Alfredo sauce"
+    },
+    {
+      id: 7,
+      name: "Butter Chicken",
+      price: 140,
+      image: "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=300&h=200&fit=crop",
+      description: "Tender chicken in rich tomato cream sauce"
+    },
+    {
+      id: 8,
+      name: "Veg Fried Rice",
+      price: 90,
+      image: "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=300&h=200&fit=crop",
+      description: "Aromatic rice with fresh vegetables"
+    },
+    {
+      id: 9,
+      name: "Chicken Tacos",
+      price: 110,
+      image: "https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=300&h=200&fit=crop",
+      description: "Mexican tacos with grilled chicken"
+    },
+    {
+      id: 10,
+      name: "Pad Thai",
+      price: 135,
+      image: "https://images.unsplash.com/photo-1559314809-0d155014e29e?w=300&h=200&fit=crop",
+      description: "Classic Thai noodles with peanuts"
+    },
+    {
+      id: 11,
+      name: "Burger & Fries",
+      price: 125,
+      image: "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=300&h=200&fit=crop",
+      description: "Juicy beef burger with crispy fries"
+    },
+    {
+      id: 12,
+      name: "Veggie Wrap",
+      price: 95,
+      image: "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=300&h=200&fit=crop",
+      description: "Healthy wrap filled with fresh vegetables"
+    },
+    {
+      id: 13,
+      name: "Sushi Platter",
+      price: 180,
+      image: "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=300&h=200&fit=crop",
+      description: "Assorted fresh sushi rolls"
+    },
+    {
+      id: 14,
+      name: "Dal Makhani",
+      price: 100,
+      image: "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?w=300&h=200&fit=crop",
+      description: "Creamy black lentils cooked overnight"
+    },
+    {
+      id: 15,
+      name: "Pepperoni Pizza",
+      price: 165,
+      image: "https://images.unsplash.com/photo-1628840042765-356cda07504e?w=300&h=200&fit=crop",
+      description: "Classic pizza loaded with pepperoni"
+    },
+    {
+      id: 16,
+      name: "Spring Rolls",
+      price: 85,
+      image: "https://images.unsplash.com/photo-1620863505943-f8d5e2c8d6c1?w=300&h=200&fit=crop",
+      description: "Crispy vegetable spring rolls"
+    },
+    {
+      id: 17,
+      name: "Tandoori Chicken",
+      price: 145,
+      image: "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=300&h=200&fit=crop",
+      description: "Clay oven roasted chicken with spices"
+    },
+    {
+      id: 18,
+      name: "Caesar Salad",
+      price: 105,
+      image: "https://images.unsplash.com/photo-1546793665-c74683f339c1?w=300&h=200&fit=crop",
+      description: "Fresh romaine with classic Caesar dressing"
+    },
+    {
+      id: 19,
+      name: "Tom Yum Soup",
+      price: 95,
+      image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&h=200&fit=crop",
+      description: "Spicy Thai soup with shrimp"
+    },
+    {
+      id: 20,
+      name: "Pasta Carbonara",
+      price: 140,
+      image: "https://images.unsplash.com/photo-1612874742237-6526221588e3?w=300&h=200&fit=crop",
+      description: "Creamy pasta with bacon and egg"
+    },
+    {
+      id: 21,
+      name: "Masala Dosa",
+      price: 80,
+      image: "https://images.unsplash.com/photo-1630383249896-424e482df921?w=300&h=200&fit=crop",
+      description: "Crispy South Indian crepe with potato filling"
+    },
+    {
+      id: 22,
+      name: "Quesadilla",
+      price: 115,
+      image: "https://images.unsplash.com/photo-1618040996337-56904b7850b9?w=300&h=200&fit=crop",
+      description: "Cheese-filled Mexican tortilla"
+    },
+    {
+      id: 23,
+      name: "Fish & Chips",
+      price: 155,
+      image: "https://images.unsplash.com/photo-1579208575657-c595a05383b7?w=300&h=200&fit=crop",
+      description: "Crispy battered fish with fries"
+    },
+    {
+      id: 24,
+      name: "Tiramisu",
+      price: 90,
+      image: "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=300&h=200&fit=crop",
+      description: "Italian coffee-flavored dessert"
+    },
+    {
+      id: 25,
+      name: "Green Curry",
+      price: 130,
+      image: "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?w=300&h=200&fit=crop",
+      description: "Thai green curry with vegetables"
+    },
+    {
+      id: 26,
+      name: "Chole Bhature",
+      price: 95,
+      image: "https://images.unsplash.com/photo-1626132647523-66f5bf380027?w=300&h=200&fit=crop",
+      description: "Spicy chickpeas with fried bread"
+    },
+    {
+      id: 27,
+      name: "Brownie Sundae",
+      price: 85,
+      image: "https://images.unsplash.com/photo-1624353365286-3f8d62daad51?w=300&h=200&fit=crop",
+      description: "Warm brownie with ice cream"
+    },
+    {
+      id: 28,
+      name: "Chicken Wings",
+      price: 120,
+      image: "https://images.unsplash.com/photo-1608039755401-742074f0548d?w=300&h=200&fit=crop",
+      description: "Spicy buffalo chicken wings"
+    },
+    {
+      id: 29,
+      name: "Mango Lassi",
+      price: 60,
+      image: "https://images.unsplash.com/photo-1623065422902-30a2d299bbe4?w=300&h=200&fit=crop",
+      description: "Sweet yogurt drink with mango"
+    },
+    {
+      id: 30,
+      name: "Ice Cream Sundae",
+      price: 75,
+      image: "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=300&h=200&fit=crop",
+      description: "Assorted ice cream with toppings"
     }
   ];
 
